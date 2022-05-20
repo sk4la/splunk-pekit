@@ -1,0 +1,4 @@
+*       text    eol=lf
+*.md    text    diff=markdown
+*.png   binary
+*.py    text    diff=python
